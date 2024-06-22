@@ -8,8 +8,6 @@ Key Features
 ✅ Optimized Resource Utilization: Ensure improved operational efficiency through optimized use of resources.
 ✅ Enhanced Customer Satisfaction: Achieve higher customer satisfaction levels with streamlined and efficient processes.
 ✅ Full-Stack Integration: Built using HTML, CSS, JavaScript, MySQL, and PHP for a complete web development experience.
-Live Demo
-Experience TAMS in action: [Link to your project or demo]
 
 Table of Contents
 Introduction
@@ -36,7 +34,7 @@ Clone the repo:
 
 sh
 Copy code
-git clone https://github.com//TAMS.git
+git clone https://github.com/puneethVnaik/Travel_Agency_Management_FullStack
 Navigate to the project directory:
 
 sh
