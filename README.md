@@ -36,7 +36,7 @@ Clone the repo:
 
 sh
 Copy code
-git clone https://github.com/your-username/TAMS.git
+git clone https://github.com//TAMS.git
 Navigate to the project directory:
 
 sh
